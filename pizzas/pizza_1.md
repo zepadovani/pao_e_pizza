@@ -28,13 +28,15 @@ OBS: `%pf` significa "porcentagem do peso da farinha".
 
 - azeite: 160ml / 144g (cerca de 0,2ml por g de farinha / 18%pf)
 
+(opcional: 1 colher de sopa de mel)
+
 ---
 
 1. Refrescar previamente o fermento (retirar da geladeira e alimentar, como explicado na seção `Usando a isca / fermento natural` de `fermento/fermento_natural-como_fazer.md`)
 
 2. Misture a farinha com cerca de 85%-90% da água: no caso, 480ml de água. Misture até obter uma mistura homogênea "e deixe descansar por 1 hora. (Esse processo se chama autólise e ajuda a farinha a absorver a água.)"
 
-3. Misture o fermento à águra restante e adicione à massa. Em seguida, "junte o azeite e o sal, mexendo sempre".
+3. Misture o fermento à água restante e adicione à massa. Em seguida, "junte o azeite e o sal, mexendo sempre". Se quiser, adicione uma colher de mel (isso ajuda na fermentação e na caramelização da massa!)
 
 4. "Polvilhe a bancada com farinha e coloque a massa da pizza, sovando-a por cerca de 10 minutos. Devido a alta hidratação da massa, ela grudará um pouco na bancada. Tenha paciência nessa hora e não coloque muita farinha para torná-la mais fácil de ser manipulada. A alta hidratação tem  vantagens – vai gerar mais gás carbônico na fermentação, aumentando os alvéolos (poros) na massa, deixando-a mais leve."
 
