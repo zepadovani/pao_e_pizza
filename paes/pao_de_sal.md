@@ -52,3 +52,5 @@ Porções: 9 pães médios / 16 pães pequenos
 13. cobrir o tabuleiro com uma folha de papel alumínio e assar de 15 a 20 min.
 
 14. retirar a folha de alumínio e assar mais, de 5 a 10 min, até corar os pães.
+
+[atualizado em: 13/abr/2020]
