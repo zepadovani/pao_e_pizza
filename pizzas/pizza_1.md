@@ -12,14 +12,14 @@ OBS: `%pf` significa "porcentagem do peso da farinha".
 
 **Porções**: para 5 pizzas médias.
 
-- farinha branca: 800g
+- farinha branca: 800g (opcionalmente utilize 400g de semolina + 400g de farinha branca)
 
 - fermento:
  |opção | fermento natural   | fermento biol. seco        |
  |------|--------------------|----------------------------|
  |1     | 320g (40%pf)       |       –                    |
  |2     |        –           |10g a 11g  (1,2%pf a 1,4%pf)|
- |3     | 160g (40%pf)       |10g a 11g  (0,6%pf a 0,7%pf)|
+ |3     | 160g (40%pf)       |5g a 6g  (0,6%pf a 0,7%pf)|
 
 
 - água: 560ml (70%pf)
