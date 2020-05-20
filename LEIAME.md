@@ -7,4 +7,5 @@ Procurarei manter as coisas aqui atualizadas e descrever o melhor possível os p
 Importante: não fiz cursos de panificação, não sou profissional e nem tenho a pretensão de me passar por um. O único propósito aqui é compartilhar o que sei com quem me pediu ou tiver interesse.
 
 
+
 [atualizado em: 12/abr/2020]
