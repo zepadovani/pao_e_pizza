@@ -26,7 +26,7 @@ Porções: 8 médios
 
 1. misturar farinha e 250g de água até massa ficar homogênea e descansar 30min p/ autólise.
 
-2. misturar restante da água ao fermento, adicionar à massa, aidicionando também o restante dos ingredientes. Deixe para colocar o sal por último, após haver integrado o fermento, o açucar e o azeite à massa.
+2. misturar restante da água ao fermento, adicionar à massa, adicionando também o restante dos ingredientes. Deixe para colocar o sal por último, após haver integrado o fermento, o açucar e o azeite à massa.
 
 3. deixe descansar por 10 min: a massa deve estar levemente pegajosa.
 

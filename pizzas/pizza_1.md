@@ -26,7 +26,7 @@ OBS: `%pf` significa "porcentagem do peso da farinha".
 
 - sal: 24g (3%pf)
 
-- azeite: 160ml / 144g (cerca de 0,2ml por g de farinha / 18%pf)
+- azeite: 80ml / 72g (cerca de 0,1ml por g de farinha / 9%pf)
 
 (opcional: 1 colher de sopa de mel)
 
@@ -66,7 +66,7 @@ A referência para saber se a pizza já assou é a cor da borda (que deve escure
 
 1. margherita: asse apenas com queijo e tomate em rodelas. Acrescente o manjericão apenas com a pizza pronta.
 
-2. portuguesa-vegetariana: refogue tiras de pimentão vemerlho e amarelo antes e cozinhe 2 a 3 ovos por pizza. Asse com queijo e os pimentões (opcionalmente: cebola roxa). Acrescente rodelas de ovo cozido apenas com a pizza já assada (evita ressecar os ovos).
+2. portuguesa-vegetariana: refogue tiras de pimentão vermelho e amarelo antes e cozinhe 2 a 3 ovos por pizza. Asse com queijo e os pimentões (opcionalmente: cebola roxa). Acrescente rodelas de ovo cozido apenas com a pizza já assada (evita ressecar os ovos).
 
 3. alho-poró e cogumelos paris: refogue rodelas de alho-poró no azeite. Acrescente, após um tempo, 2 alhos picados. Refogue um pouco mais, sem deixar queimar, e acrescente os cogumelos cortados. Acrescente sal, orégano e pimenta-do-reino a gosto. É uma boa deixar a panela tapada por um tempo para o cogumelo assar mais. Destampe de deixe a água secar. Asse a pizza com queijo e com o refogado de cogumelos/alho-poró.
 
